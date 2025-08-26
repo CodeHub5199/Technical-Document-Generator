@@ -1,0 +1,7 @@
+streamlit
+crewai
+python-docx
+python-dotenv
+langchain
+langchain-community
+groq
