@@ -93,5 +93,11 @@ The resulting document will include:
 - LLM services provided by Groq
 - Documentation generation with python-docx
 
+**Screenshots**
 
-
+<img width="959" height="445" alt="1" src="https://github.com/user-attachments/assets/f263997a-0191-4618-b84f-dd2fb85e9426" />
+<img width="959" height="502" alt="6" src="https://github.com/user-attachments/assets/99300be0-2fde-4af7-a4f9-89d2e583bec4" />
+<img width="959" height="505" alt="5" src="https://github.com/user-attachments/assets/e88feeb2-be00-4186-ae8e-5c630d76db68" />
+<img width="956" height="445" alt="4" src="https://github.com/user-attachments/assets/94801b17-c0da-4adb-981c-49401662a1a7" />
+<img width="957" height="443" alt="3" src="https://github.com/user-attachments/assets/614392ba-ce3a-4f5b-8c7f-dcfd0da5e140" />
+<img width="959" height="445" alt="2" src="https://github.com/user-attachments/assets/ae6f05db-7bb7-4376-b9cf-15b6e64ffc0d" />
